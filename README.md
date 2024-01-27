@@ -7,7 +7,7 @@ Please see blog site https://devbuildit.com/2023/06/15/aws-lambda-deployment-via
 This repo (and associated blog) will modify an existing AWS Identity Center instance and set up some testing resources.
 
 Solution overview:
-![Overview](./images/BLOG ABAC overview.png)
+![Overview](./images/blog-abac-part-2-overview.png)
 
 
 ## Requirements:
