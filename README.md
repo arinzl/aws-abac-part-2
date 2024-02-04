@@ -1,10 +1,10 @@
 # Overview  
 
-Please see blog site https://devbuildit.com/2023/06/15/aws-lambda-deployment-via-ci-cd-pipeline-and-terraform/ for detailed explaination of this repo contents.
+Please see blog site https://devbuildit.com/2024/02/04/abac-for-aws-resource-access-part-2/ for detailed explaination of this repo contents.
 
 
 # Installation  
-This repo (and associated blog) will modify an existing AWS Identity Center instance and set up some testing resources.
+This repo (and associated blog) will modify an existing AWS Identity Center instance and set up some ABAC testing resources.
 
 Solution overview:
 ![Overview](./images/blog-abac-part-2-overview.png)
